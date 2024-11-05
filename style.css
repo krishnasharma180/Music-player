@@ -217,7 +217,7 @@ width: 200px;
 .music-list  h1{
 align-items: center;
 text-align: center;
-margin: 15px 20px;
+margin: 15px 10px;
 color: white;
 }
 .music-list ul li img{
@@ -241,7 +241,7 @@ color: white;
    color: rgb(56, 53, 53);
 }
 .fa-xmark{
-   margin-left: 100px;
+   margin-left: 80px;
 }
 .about{
    position: absolute;
